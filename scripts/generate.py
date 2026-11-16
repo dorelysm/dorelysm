@@ -312,7 +312,7 @@ def build_dynamic() -> None:
             write(ASSETS / "cards" / f"{p['repo']}-{theme}.svg", card(p, stars, lang, theme))
 
     repos = [r for r in api(f"/users/{USER}/repos?per_page=100&type=owner")
-             if not r["private"] and not r["fork"] and not r["archived"]]
+             if not r["private"] and not r["fork"] and not r["archived"] and r["name"] != USER]
     totals: dict[str, int] = {}
     for r in repos:
         for name, n in api(f"/repos/{USER}/{r['name']}/languages").items():
