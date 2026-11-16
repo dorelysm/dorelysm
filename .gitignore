@@ -1,0 +1,7 @@
+# Internal working notes (not part of the public profile)
+PLAN.md
+DRAFT.md
+research/
+__pycache__/
+preview-*.html
+.claude/

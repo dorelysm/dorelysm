@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="188" viewBox="0 0 340 188" role="img" aria-labelledby="t d">
+<title id="t">ms-lesion-segmentation project card</title>
+<desc id="d">ms-lesion-segmentation: 2D U-Net for multiple sclerosis lesion segmentation in brain MRI (T1/T2/FLAIR). 5-fold CV, Dice 0.553. Stack: PyTorch · Medical imaging. 1 stars.</desc>
+<rect x="1" y="1" width="338" height="186" rx="12" fill="#1C1917" stroke="#44403C"/>
+<rect x="1" y="1" width="4" height="186" rx="2" fill="#916E6E"/>
+<text x="22" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#F5F0ED">ms-lesion-segmentation</text>
+<text x="22" y="62" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#D6D3D1">2D U-Net for multiple sclerosis lesion</text>
+<text x="22" y="81" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#D6D3D1">segmentation in brain MRI (T1/T2/FLAIR). 5-fold</text>
+<text x="22" y="100" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#D6D3D1">CV, Dice 0.553.</text>
+<text x="22" y="138" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#BC8F8F">PyTorch · Medical imaging</text>
+<line x1="22" y1="150" x2="318" y2="150" stroke="#44403C"/>
+<circle cx="28" cy="169" r="5" fill="#916E6E"/>
+<text x="40" y="174" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#A8A29E">Jupyter Notebook</text>
+<text x="318" y="174" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#A8A29E">&#9733; 1</text>
+</svg>

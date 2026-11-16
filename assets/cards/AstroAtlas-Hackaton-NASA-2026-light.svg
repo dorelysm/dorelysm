@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="188" viewBox="0 0 340 188" role="img" aria-labelledby="t d">
+<title id="t">AstroAtlas project card</title>
+<desc id="d">AstroAtlas: Finds and validates Earth analogs for Moon and Mars bases. NASA Space Apps Challenge 2026. Stack: Python · Streamlit · Geospatial. 1 stars.</desc>
+<rect x="1" y="1" width="338" height="186" rx="12" fill="#FFFFFA" stroke="#E7E5E4"/>
+<rect x="1" y="1" width="4" height="186" rx="2" fill="#BC8F8F"/>
+<text x="22" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#292524">AstroAtlas</text>
+<text x="22" y="62" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#44403C">Finds and validates Earth analogs for Moon and</text>
+<text x="22" y="81" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#44403C">Mars bases. NASA Space Apps Challenge 2026.</text>
+<text x="22" y="138" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#916E6E">Python · Streamlit · Geospatial</text>
+<line x1="22" y1="150" x2="318" y2="150" stroke="#E7E5E4"/>
+<circle cx="28" cy="169" r="5" fill="#BC8F8F"/>
+<text x="40" y="174" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#78706B">Python</text>
+<text x="318" y="174" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#78706B">&#9733; 1</text>
+</svg>

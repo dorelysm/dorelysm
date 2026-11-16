@@ -1,0 +1,91 @@
+<p align="center">
+  <a href="https://dorelys.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+      <img src="assets/header-light.svg" alt="Dorelys Martinez Suarez, AI Engineer. AI with purpose. Always." width="700">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+    <img src="assets/typing-light.svg" alt="AI Engineer. M.Sc. in Artificial Intelligence. Building AI tools with purpose. Founder, Praeventia Technologies." width="700">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://dorelys.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/web-dark.svg"><img src="assets/links/web-light.svg" alt="Website: dorelys.dev" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/dorelys-martinez/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>
+  <a href="mailto:me@dorelys.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/email-dark.svg"><img src="assets/links/email-light.svg" alt="Email: me@dorelys.dev" height="40"></picture></a>
+  <a href="https://github.com/dorelysm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/github-dark.svg"><img src="assets/links/github-light.svg" alt="GitHub: dorelysm" height="40"></picture></a>
+</p>
+
+<br>
+
+I'm an AI engineer with a systems engineering background and an M.Sc. in Artificial Intelligence. I build AI tools that solve real community problems, teach programming, and write down what I learn along the way at [dorelys.dev](https://dorelys.dev).
+
+*AI with purpose. Always.*
+
+<details open>
+  <summary><h2>🚀 Featured projects</h2></summary>
+
+  <p align="center">
+    <a href="https://github.com/dorelysm/naturalizacion-texto-es"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/naturalizacion-texto-es-dark.svg"><img src="assets/cards/naturalizacion-texto-es-light.svg" alt="naturalizacion-texto-es: Claude Code skill that makes AI-generated Spanish read naturally" width="340"></picture></a>
+    <a href="https://github.com/dorelysm/resilis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/resilis-dark.svg"><img src="assets/cards/resilis-light.svg" alt="Resilis: disaster aid prioritization, 2nd place Social Impact at Rally Latinoamericano 2026 at Corporación Universitaria Americana" width="340"></picture></a>
+    <a href="https://github.com/dorelysm/AstroAtlas-Hackaton-NASA-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/AstroAtlas-Hackaton-NASA-2026-dark.svg"><img src="assets/cards/AstroAtlas-Hackaton-NASA-2026-light.svg" alt="AstroAtlas: Earth analogs for Moon and Mars bases, NASA Space Apps Challenge 2026" width="340"></picture></a>
+    <a href="https://github.com/dorelysm/ms-lesion-segmentation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/ms-lesion-segmentation-dark.svg"><img src="assets/cards/ms-lesion-segmentation-light.svg" alt="ms-lesion-segmentation: 2D U-Net for MS lesion segmentation in brain MRI" width="340"></picture></a>
+  </p>
+
+  <p align="center">
+    Live demo: <a href="https://app-production-6cc653bd.up.railway.app/?lang=en">AstroAtlas</a> · More projects on <a href="https://dorelys.dev/en/">dorelys.dev</a>
+  </p>
+</details>
+
+<details open>
+  <summary><h2>🧠 Right now</h2></summary>
+
+- Just completed my M.Sc. in AI, with a thesis on a study-support system that combines RAG with unsupervised student profiling.
+- Founding [Praeventia Technologies](https://praeventiatech.com/), an AI and cybersecurity venture for companies.
+- Teaching programming and documenting the process in my [logbook](https://dorelys.dev/es/bitacora/).
+- Researching agroclimatic AI models for agriculture in Colombia.
+</details>
+
+<details>
+  <summary><h2>🛠️ Toolbox</h2></summary>
+
+- **AI and ML:** Python, PyTorch, scikit-learn, RAG, LLMs, Claude, LM Studio
+- **Backend and data:** FastAPI, PostgreSQL, Prisma
+- **Frontend:** Next.js, React, Tailwind CSS, Astro
+- **Infra:** Vercel, Cloudflare, Railway, GitHub Actions
+</details>
+
+<details>
+  <summary><h2>🔒 Behind the scenes</h2></summary>
+
+Not everything lives in public repos. Some of what I'm working on, for the curious:
+
+- An AI agent orchestration harness with security built in (PhD research candidature).
+- A tracking app for chronic diseases.
+- A community-listening tool.
+- A semantic medical translator.
+</details>
+
+<details>
+  <summary><h2>📊 Stats</h2></summary>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+      <img src="assets/stats-light.svg" alt="Language share across my public repositories, mostly Python" width="700">
+    </picture>
+  </p>
+
+  <p align="center"><sub>Generated by a GitHub Action from my public repositories. No third-party widgets.</sub></p>
+</details>
+
+<br>
+
+<p align="center">
+  Want to build something with purpose? <a href="https://dorelys.dev"><b>dorelys.dev</b></a>
+</p>
