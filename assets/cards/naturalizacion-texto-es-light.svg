@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="188" viewBox="0 0 340 188" role="img" aria-labelledby="t d">
 <title id="t">naturalizacion-texto-es project card</title>
-<desc id="d">naturalizacion-texto-es: Claude Code skill that makes AI-generated Spanish read naturally: 11 linguistic techniques, built for editorial quality, not detector evasion. Stack: Claude Code · NLP · Spanish. 6 stars.</desc>
+<desc id="d">naturalizacion-texto-es: Claude Code skill that makes AI-generated Spanish read naturally: 11 linguistic techniques, built for editorial quality, not detector evasion. Stack: Claude Code · NLP · Spanish. 7 stars.</desc>
 <rect x="1" y="1" width="338" height="186" rx="12" fill="#FFFFFA" stroke="#E7E5E4"/>
 <rect x="1" y="1" width="4" height="186" rx="2" fill="#BC8F8F"/>
 <text x="22" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#292524">naturalizacion-texto-es</text>
@@ -12,5 +12,5 @@
 <line x1="22" y1="150" x2="318" y2="150" stroke="#E7E5E4"/>
 <circle cx="28" cy="169" r="5" fill="#BC8F8F"/>
 <text x="40" y="174" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#78706B">Claude Code skill</text>
-<text x="318" y="174" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#78706B">&#9733; 6</text>
+<text x="318" y="174" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#78706B">&#9733; 7</text>
 </svg>
